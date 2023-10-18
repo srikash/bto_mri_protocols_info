@@ -8,4 +8,4 @@ Please refer this [Siemens MAGNETOM Flash article](https://marketing.webassets.s
 
 #### Contributors
 Sriranga Kashyap, BRAIN-To Lab, Krembil Brain Institute, UHN<br />
-Yuexin Xi, PhD Candidate, Dept. of Medical Biophysics, University of Toronto
+Yuexin Xi, PhD Student, Dept. of Medical Biophysics, University of Toronto
