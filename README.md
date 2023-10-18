@@ -3,5 +3,5 @@ This is a repository of wiki, code and containers for post-processing data acqui
 
 
 #### Contributors
-Sriranga Kashyap, BRAIN-To Lab, Krembil Brain Institute, UHN
+Sriranga Kashyap, BRAIN-To Lab, Krembil Brain Institute, UHN<br />
 Yuexin Xi, PhD Candidate, Dept. of Medical Biophysics, University of Toronto
