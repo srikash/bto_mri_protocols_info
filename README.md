@@ -11,8 +11,8 @@ Please refer the article titled, [Advancing Clinical and Neuroscientific Researc
 2. Wiki with recommended pipelines and tools
 4. Adding scripts and example code for processing data
 
-#### Please feel free to contribute to our efforts. For urgent requests, please e-mail.
+#### Please feel free to contribute to our efforts. For urgent requests, please [e-mail](mailto:sriranga.kashyap@uhn.ca).
 
 #### Contributors
-[Sriranga Kashyap](mailto:sriranga.kashyap@uhn.ca), BRAIN-To Lab, Krembil Brain Institute, UHN<br />
+Sriranga Kashyap, BRAIN-To Lab, Krembil Brain Institute, UHN<br />
 Yuexin Xi, PhD Student, Dept. of Medical Biophysics, University of Toronto
