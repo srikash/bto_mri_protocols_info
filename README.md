@@ -7,8 +7,9 @@ Please refer the article titled, [Advancing Clinical and Neuroscientific Researc
 
 
 #### This repository is being updated steadily and include the following 
-1. Zenodo links for XA30 exar1 files
-2. Wiki with recommended pipelines and tools
+1. Zenodo links for XA30 exar1 files.
+2. Zenodo links for Protocol PDFs (for translating to other Prisma software versions).
+3. Wiki with recommended pipelines and tools
 4. Adding scripts and example code for processing data
 
 #### Please feel free to contribute to our efforts. 
