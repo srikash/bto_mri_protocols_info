@@ -1,11 +1,18 @@
 # BRAIN-To MRI Protocols Repository
 This is a repository of wiki, code and containers for processing data acquired using the BRAIN-TO imaging protocols on Siemens MAGNETOM Prisma 3 T (XA30).
 
-Please refer this [Siemens MAGNETOM Flash article](https://marketing.webassets.siemens-healthineers.com/ed15b22a01ec5497/ef408bcafa80/siemens-healthineers-magnetom-world-Kashyap_Uludag_BRAIN-TO_protocols.pdf) for an overview.
+Please refer the article titled, [Advancing Clinical and Neuroscientific Research Through Accessible and Optimized Protocol Design at 3T](https://marketing.webassets.siemens-healthineers.com/ed15b22a01ec5497/ef408bcafa80/siemens-healthineers-magnetom-world-Kashyap_Uludag_BRAIN-TO_protocols.pdf), published in the RSNA Edition of Siemens MAGNETOM Flash (2023) for an overview.
 
 ![](misc/fig/MAGNETOM_Flash_Figure_2.png)
 
 
+#### This repository is being updated steadily and include the following 
+1. Zenodo links for XA30 exar1 files
+2. Wiki with recommended pipelines and tools
+4. Adding scripts and example code for processing data
+
+#### Please feel free to contribute to our efforts. For urgent requests, please e-mail.
+
 #### Contributors
-Sriranga Kashyap, BRAIN-To Lab, Krembil Brain Institute, UHN<br />
+[Sriranga Kashyap](mailto:sriranga.kashyap@uhn.ca), BRAIN-To Lab, Krembil Brain Institute, UHN<br />
 Yuexin Xi, PhD Student, Dept. of Medical Biophysics, University of Toronto
