@@ -11,7 +11,8 @@ Please refer the article titled, [Advancing Clinical and Neuroscientific Researc
 2. Wiki with recommended pipelines and tools
 4. Adding scripts and example code for processing data
 
-#### Please feel free to contribute to our efforts. For urgent requests, please [e-mail](mailto:sriranga.kashyap@uhn.ca).
+#### Please feel free to contribute to our efforts. 
+For urgent requests, please [e-mail](mailto:sriranga.kashyap@uhn.ca).
 
 #### Contributors
 Sriranga Kashyap, BRAIN-To Lab, Krembil Brain Institute, UHN<br />
